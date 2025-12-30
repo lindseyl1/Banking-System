@@ -1,2 +1,2 @@
 # Banking-System
-This program simulates a banking system with privacy precautions and mathematical reasoning.
+This program simulates a banking system using C++ with privacy precautions and mathematical reasoning.
